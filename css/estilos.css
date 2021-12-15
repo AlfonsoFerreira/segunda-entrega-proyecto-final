@@ -1,0 +1,37 @@
+/* Css reseteo*/
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: times;
+    background-color: #FFDB58;
+
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+}
+
+nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.slider_1{
+    display: flex
+}
+
+footer{
+    background-color: grey;
+}
